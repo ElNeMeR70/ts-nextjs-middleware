@@ -1,0 +1,13 @@
+{
+  "name": "ts-nextjs-middleware",
+  "version": "1.0.0",
+  "description": "Next.js-compatible Edge middleware runtime",
+  "scripts": {
+    "start": "npx tsx main.ts"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "tsx": "^4.0.0",
+    "typescript": "^5.0.0"
+  }
+}
